@@ -1,8 +1,6 @@
 module github.com/awslabs/tc-redirect-tap
 
-go 1.23.0
-
-toolchain go1.24.1
+go 1.25.0
 
 require (
 	github.com/containernetworking/cni v1.3.0
@@ -10,7 +8,7 @@ require (
 	github.com/hashicorp/go-multierror v1.1.1
 	github.com/stretchr/testify v1.10.0
 	github.com/vishvananda/netlink v1.3.1
-	golang.org/x/sys v0.33.0
+	golang.org/x/sys v0.47.0
 )
 
 require (
