@@ -5,7 +5,7 @@ go 1.23.0
 toolchain go1.24.1
 
 require (
-	github.com/containernetworking/cni v1.3.0
+	github.com/containernetworking/cni v1.3.1
 	github.com/containernetworking/plugins v1.7.1
 	github.com/hashicorp/go-multierror v1.1.1
 	github.com/stretchr/testify v1.10.0
